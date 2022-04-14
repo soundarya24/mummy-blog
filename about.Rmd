@@ -1,16 +1,18 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  Welcome to my blog - Geetha Writes!!
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Welcome to my blog - Geetha Writes!!
 
-My name is Geetha Soundararajan. I shall be sharing my poems, proses and paintings/drawings in my blog.
+
+My name is Geetha alias Soundaravalli Soundararajan, B.Com. I did my graduation at DKM College, Vellore, India. 
+
+I shall be sharing my poems, proses and paintings/drawings in my blog.
 
 என் பெயர் கீதா சௌந்தரராஜன். நான் எழுதிய கவிதைகளை இதில் பதிவிட உள்ளேன். கவிதைகள் மட்டுமல்லாமல் நான் எழுதிய சில பகுதிகளையும் இதில் பதிவிடலாம் என்று எண்ணுகிறேன் 
 
