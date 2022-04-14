@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2022-04-14-my-first-post/",
+    "title": "My first post",
+    "description": "அன்பைக் குறித்து எனது எண்ணம்  .",
+    "author": [
+      {
+        "name": "Geetha Soundararajan",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-14",
+    "categories": [],
+    "contents": "\nஅன்பை விதைத்திடு\nஅன்பை விதைத்திடு - உன்\nஅன்பு மொழியால்\nகுருடர்கள் பார்க்கலாம்\nசெவிடர்கள் கேட்கலாம்\nமுடவர்கள் நடக்கலாம்\nஎனவே அன்பை விதைத்திடு - உன்\nஅன்பு வார்த்தைகளால்\nநண்பர்கள் பெருகலாம்\nபண்பு வளர்க்கலாம்\nபசி மறக்கலாம்\nபகை துறக்கலாம்\nநேசமாய் நெருங்கலாம்\nபாசமாய் இருக்கலாம்\nஎனவே அன்பை விதைத்திடு\nBy Geetha Soundararajan\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-04-14T14:58:22+05:30",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to GeethaWrites",
+    "description": "Welcome to my new blog, GeethaWrites. I hope you enjoy \nreading what I have to say!",
+    "author": [
+      {
+        "name": "Geetha Soundararajan",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-14",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-04-14T14:57:36+05:30",
+    "input_file": {}
+  }
+]

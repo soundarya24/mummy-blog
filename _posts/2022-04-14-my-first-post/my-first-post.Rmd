@@ -1,0 +1,38 @@
+---
+title: "My first post"
+description: |
+  அன்பைக் குறித்து எனது எண்ணம்  .
+author:
+  - name: Geetha Soundararajan
+date: 04-14-2022
+output:
+  distill::distill_article:
+    self_contained: false
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# அன்பை விதைத்திடு
+
+அன்பை விதைத்திடு - உன்   
+அன்பு மொழியால்      
+குருடர்கள் பார்க்கலாம்  
+ செவிடர்கள்  கேட்கலாம்    
+முடவர்கள் நடக்கலாம்      
+
+எனவே அன்பை விதைத்திடு - உன்    
+அன்பு வார்த்தைகளால்   
+ நண்பர்கள் பெருகலாம்     
+பண்பு வளர்க்கலாம்  
+ பசி மறக்கலாம்   
+ பகை துறக்கலாம்     
+ நேசமாய் நெருங்கலாம்   
+பாசமாய் இருக்கலாம்  
+ எனவே அன்பை விதைத்திடு  
+
+*By Geetha Soundararajan*
