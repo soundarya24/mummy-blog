@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 சற்றே ஓய்வெடுக்க நினைத்தேன்\
 ஹால் முழுவதும்\
 computer chair\
-molded chair\
+moulded chair\
 folding chair\
 dining table chair
 
