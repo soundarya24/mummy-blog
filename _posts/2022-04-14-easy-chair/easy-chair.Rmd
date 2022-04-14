@@ -1,0 +1,42 @@
+---
+title: "ஓய்வு நேரம் "
+description: |
+  அதில் நான் கற்ற பாடம் 
+author:
+  - name: Geetha Soundararajan
+    url: {}
+date: 04-14-2022
+output:
+  distill::distill_article:
+    self_contained: false
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+கிச்சனில் வேலை முடித்து\
+சற்றே ஓய்வெடுக்க நினைத்தேன்\
+ஹால் முழுவதும்\
+computer chair\
+molded chair\
+folding chair\
+dining table chair
+
+இத்தனை இருந்தும் உட்கார முடியவில்லை\
+அனைத்திலும் புத்தகங்கள்
+
+பள்ளிக்கூட பைகள்\
+கழட்டி விட்ட சீருடைகள்\
+ஈஸி chair - உம் உண்டு\
+அதில் relaxed ஆக தூங்கும்\
+plus 2 (+2) மகள்\
+எழுப்ப மனமில்லை\
+தரையில் அமர்வதில்தான்\
+எத்தனை சுகம் உண்டென்றேன்\
+திராட்சை கிடைக்காத நரி போல்
+
+*By Geetha Soundararajan*
