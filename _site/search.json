@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Welcome to my blog - Geetha Writes!!",
       "author": [],
-      "contents": "\nWelcome to my blog - Geetha Writes!!\nMy name is Geetha Soundararajan. I shall be sharing my poems, proses\nand paintings/drawings in my blog.\nஎன் பெயர் கீதா சௌந்தரராஜன். நான் எழுதிய கவிதைகளை இதில் பதிவிட\nஉள்ளேன். கவிதைகள் மட்டுமல்லாமல் நான் எழுதிய சில பகுதிகளையும் இதில்\nபதிவிடலாம் என்று எண்ணுகிறேன்\n\n\n\n",
-      "last_modified": "2022-04-14T14:40:12+05:30"
+      "contents": "\nMy name is Geetha alias Soundaravalli Soundararajan, B.Com. I did my\ngraduation at DKM College, Vellore, India.\nI shall be sharing my poems, proses and paintings/drawings in my\nblog.\nஎன் பெயர் கீதா சௌந்தரராஜன். நான் எழுதிய கவிதைகளை இதில் பதிவிட\nஉள்ளேன். கவிதைகள் மட்டுமல்லாமல் நான் எழுதிய சில பகுதிகளையும் இதில்\nபதிவிடலாம் என்று எண்ணுகிறேன்\n\n\n\n",
+      "last_modified": "2022-04-14T15:18:56+05:30"
     },
     {
       "path": "index.html",
       "title": "GeethaWrites",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-04-14T14:58:40+05:30"
+      "last_modified": "2022-04-14T15:32:30+05:30"
     }
   ],
   "collections": ["posts/posts.json"]
