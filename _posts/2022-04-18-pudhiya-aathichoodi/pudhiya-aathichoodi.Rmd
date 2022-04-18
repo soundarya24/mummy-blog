@@ -1,0 +1,39 @@
+---
+title: "புதிய ஆத்திச்சூடி என் பேனாவில் "
+description: |
+  கீதாவின்  புதிய ஆத்திச்சூடி
+author:
+  - name: Geetha Soundararajan
+    url: {}
+date: 04-18-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**அ**கந்தை ஒழி \
+**ஆ**ணவம் அகற்று. \
+**இ**ன்சொல் பேசு. \
+**ஈ**கை செய்.
+
+**உ**ழைப்பால் உயர்
+
+**ஊ**க்கம் கொள்.
+
+**எ**றும்பு போல் இரு
+
+**ஏ**ற்றம் கொள்
+
+**ஐ**யம் நீக்கு
+
+**ஒ**ற்றுமை பேண்.
+
+**ஓ**ம்காரம் அறி.    **ஔ**டதம் வேறில்லை
+
+அ**ஃ**தே உனக்கு வழி
+
+*Geetha Soundararajan*
