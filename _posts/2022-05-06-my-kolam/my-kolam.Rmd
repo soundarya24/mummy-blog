@@ -26,3 +26,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ![My proud presentation - Tanjore art!](paint_tnjart.jpg)
 
 ![Another one!](paint_tnjart2.jpg)
+
+![அழகு மயில் ஆட ](pain_dancinnglady.jpg)
