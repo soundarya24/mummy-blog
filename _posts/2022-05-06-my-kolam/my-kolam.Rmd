@@ -1,0 +1,18 @@
+---
+title: "என் கோலங்கள் "
+description: |
+  எனக்கு கோலம் போடுவது மிகவும் பிடித்தமான ஒன்று. எனது சில கோலங்களை இதில் பதிவேற்றம் செய்ய திட்டமிட்டுள்ளேன். 
+author:
+  - name: Geetha Soundararajan
+    url: {}
+date: 05-06-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![கோலம் தேதி 06-05-2022](kolam_060522.jpg)
