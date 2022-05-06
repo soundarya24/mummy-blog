@@ -1,7 +1,7 @@
 ---
-title: "என் கோலங்கள் "
+title: "ஓய்வு நேரத்தில் சில ஓவியங்கள் "
 description: |
-  எனக்கு கோலம் போடுவது மிகவும் பிடித்தமான ஒன்று. எனது சில கோலங்களை இதில் பதிவேற்றம் செய்ய திட்டமிட்டுள்ளேன். 
+  எனக்கு கோலம் போடுவது மிகவும் பிடித்தமான ஒன்று. Paintings - ம் செய்வேன் அவை எல்லாம் இதில் பதிவேற்றம் செய்ய திட்டமிட்டுள்ளேன் 
 author:
   - name: Geetha Soundararajan
     url: {}
@@ -16,3 +16,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ![கோலம் தேதி 06-05-2022](kolam_060522.jpg)
+
+![Flowers!](paint_flowers.jpg)
+
+![Fresh fruits!](paint_fruitbasket.jpg)
+
+![Peacock](paint_mayil.jpg)
+
+![My proud presentation - Tanjore art!](paint_tnjart.jpg)
+
+![Another one!](paint_tnjart2.jpg)
