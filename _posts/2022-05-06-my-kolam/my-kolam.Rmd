@@ -27,4 +27,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![Another one!](paint_tnjart2.jpg)
 
-![அழகு மயில் ஆட ](pain_dancinnglady.jpg)
+![அழகு மயில் ஆட](pain_dancinnglady.jpg)
+
+![Embose painting of a horse](paint_horse.jpg)
+
+![](paint_moon.jpg)
