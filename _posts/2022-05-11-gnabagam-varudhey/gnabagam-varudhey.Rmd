@@ -14,6 +14,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![Hear my daughter read this!](sound_reads.m4a)
+
 ஏழு கல்லு கையில் வெச்சு\
 கல்லாங்கா ஆட வேணும்
 
