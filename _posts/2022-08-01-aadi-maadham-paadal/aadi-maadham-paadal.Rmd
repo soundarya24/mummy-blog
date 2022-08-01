@@ -1,0 +1,18 @@
+---
+title: "ஆடிப்பெருக்கு பாடல் "
+description: |
+  Aadiperukku or Aadi monsoon festival is celebrated on the 18th day of Tamil month Aadi.
+author:
+  - name: Geetha Soundararajan
+    url: {}
+date: 08-01-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![In celebration of Aadiperukku/Aadi 18, hear me sing a beautiful and joyful song](aadi_song.mp3)
