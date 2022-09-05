@@ -1,0 +1,18 @@
+---
+title: "Teachers' day கவிதை"
+description: |
+  Hear my கவிதை about teachers' day.
+author:
+  - name: Geetha Soundararajan
+    url: {}
+date: 09-05-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Hear me read the kavidhai](teachersday_kavidhai.mp3)
